@@ -94,22 +94,10 @@ export default function Calculator() {
         </div>
       </div>
 
-      <div className="attribution text-center text-xs mt-6 text-white opacity-70">
-        Challenge by{" "}
-        <a
-          href="https://www.frontendmentor.io?ref=challenge"
-          target="_blank"
-          rel="noreferrer"
-          className="underline hover:text-blue-400"
-        >
-          Frontend Mentor
-        </a>
-        . Coded by{" "}
-        <a href="#" className="underline hover:text-blue-400">
-          Khushi
+        <a href="https://github.com/khushi0433" className="underline hover:text-blue-400">
+          Khushi_baloch
         </a>
         .
       </div>
-    </div>
   );
 }
